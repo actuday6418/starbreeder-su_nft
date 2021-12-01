@@ -1,0 +1,1 @@
+/home/actuday/dev/superuser/target/debug/libsuperuser.so: /home/actuday/dev/superuser/src/contract.rs /home/actuday/dev/superuser/src/error.rs /home/actuday/dev/superuser/src/lib.rs /home/actuday/dev/superuser/src/msg.rs /home/actuday/dev/superuser/src/state.rs

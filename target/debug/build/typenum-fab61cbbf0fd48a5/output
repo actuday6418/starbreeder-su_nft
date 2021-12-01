@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/actuday/dev/superuser/target/debug/build/typenum-fab61cbbf0fd48a5/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/actuday/dev/superuser/target/debug/build/typenum-fab61cbbf0fd48a5/out/op.rs
